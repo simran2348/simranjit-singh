@@ -1,0 +1,13 @@
+[data-theme="dark"] {
+  --theme: #da5724;
+  --primary: #ffffff;
+  --primaryBackground: #1c1a1b;
+  --primaryBackgroundTwo: #404040;
+  --primaryInput: #3e3e3e85;
+  --secondary: #a5a5a5;
+  --secondaryBackground: #140d0d;
+  --fabBoxShadow: -5px 5px 10px #181617, 5px -5px 10px #201e1f;
+  --fabBackground: linear-gradient(225deg, #191718, #1e1c1d);
+  --rippleColor: rgb(179, 179, 179);
+  --profilePicShadow: 0px 0px 0px 0px var(--theme);
+}
