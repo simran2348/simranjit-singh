@@ -1,7 +1,7 @@
 import { useContext, useEffect, useState, useRef } from "react";
 import ThemeContext from "./Context/ThemeContext";
 import FabRouter from "./Components/FabRouter";
-import { BrowserRouter as Router } from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
 import AppRoutes from "./routes";
 import { Provider } from "react-redux";
 import store from "./store";
