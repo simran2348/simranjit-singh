@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/simranjit-singh/static/css/main.b70b4d6e.css",
-    "main.js": "/simranjit-singh/static/js/main.6e5b5aa2.js",
+    "main.js": "/simranjit-singh/static/js/main.bd6e1f4e.js",
     "static/js/787.ee95881d.chunk.js": "/simranjit-singh/static/js/787.ee95881d.chunk.js",
     "static/media/notFound.png": "/simranjit-singh/static/media/notFound.ed7c2fdbf6dcd6355afa.png",
     "static/media/houseMarketplace.JPG": "/simranjit-singh/static/media/houseMarketplace.8a6a285b4492fd855965.JPG",
@@ -17,11 +17,11 @@
     "static/media/ReactFrontToBack.JPG": "/simranjit-singh/static/media/ReactFrontToBack.88a301850c8f648e17e8.JPG",
     "index.html": "/simranjit-singh/index.html",
     "main.b70b4d6e.css.map": "/simranjit-singh/static/css/main.b70b4d6e.css.map",
-    "main.6e5b5aa2.js.map": "/simranjit-singh/static/js/main.6e5b5aa2.js.map",
+    "main.bd6e1f4e.js.map": "/simranjit-singh/static/js/main.bd6e1f4e.js.map",
     "787.ee95881d.chunk.js.map": "/simranjit-singh/static/js/787.ee95881d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b70b4d6e.css",
-    "static/js/main.6e5b5aa2.js"
+    "static/js/main.bd6e1f4e.js"
   ]
 }
