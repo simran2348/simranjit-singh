@@ -1,6 +1,6 @@
 import moonImage from "./moon.png";
 import sunImage from "./sun.png";
-import profileImage from "./profile.jpeg";
+import profileImage from "./ProfilePic.jpg";
 import notFoundImage from "./notFound.png";
 import instagram from "./instagram";
 import mongoose from "./mongoose";
